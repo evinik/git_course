@@ -2,7 +2,7 @@
 
 >(1969)
 
-![cover art](img.jpg)
+![cover art](https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg)
 
 This album was the last album of the Beatles as a whole band. It consists of Beatles' most famous pieces such as 'Come Together', 'Something' and 'Here comes the Sun' that have been linked to Classic Rock'n'Roll music through the years. 
 
