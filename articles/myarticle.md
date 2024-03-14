@@ -1,6 +1,10 @@
-The Beatles - Abbey Road (1969)
+# The Beatles - Abbey Road 
 
-This album was the last album of beatles as a whole band. It consists of Beatles' most famous pieces such as 'Come Together', 'Something' and 'Here comes the Sun' that have been linked to Classic Rock'n'Roll music through the years. 
+>(1969)
+
+![cover art](./img.jpg)
+
+This album was the last album of the Beatles as a whole band. It consists of Beatles' most famous pieces such as 'Come Together', 'Something' and 'Here comes the Sun' that have been linked to Classic Rock'n'Roll music through the years. 
 
 It also contains more experimental and eccentric songs like 'You never give me your money' or 'Maxwells silver hammer' that show a different and less mainstream image of the Beatles at that time. 
 
