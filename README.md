@@ -3,4 +3,4 @@
 
 For the 2024 IPGP Git class!!
 
-Giy is a version control program.
+Git is a version control program.
